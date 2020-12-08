@@ -1,0 +1,24 @@
+{
+  "name": "17.-portfolio",
+  "version": "1.0.0",
+  "description": "Demo node projektas",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "dev":"nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2MariusG/17.-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2MariusG/17.-Portfolio/issues"
+  },
+  "homepage": "https://github.com/2MariusG/17.-Portfolio#readme"
+}
